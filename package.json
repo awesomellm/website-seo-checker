@@ -1,0 +1,8 @@
+{
+  "name": "zequnweb-website-seo-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test seo.test.mjs", "examples": "node create-fixtures.mjs" }
+}
